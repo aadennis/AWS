@@ -1,8 +1,11 @@
 Phrase	SoundsLike	IPA	DisplayAs
 zero			0
 oh			0
+dash			0
+double oh			00
 one			1
 won			1
+own			1
 wire			1
 along			1
 two			2
@@ -27,4 +30,5 @@ low			"Low"
 pie			High
 comma			","
 coma			","
+comer			","
 colour			","
