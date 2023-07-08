@@ -2,7 +2,7 @@ Phrase	SoundsLike	IPA	DisplayAs
 zero			0
 oh			0
 dash			0
-double oh			00
+double-oh			00
 one			1
 won			1
 own			1
